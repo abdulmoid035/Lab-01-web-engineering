@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="des.css">
+
+</head>
+<body>
+
+    <hr style="height:2px;border-width:0;color:rgb(14, 14, 117);background-color:rgb(14, 14, 117)">
+    <h1> Shahab Ahmed - RESUME </h1>
+    <hr style="height:2px;border-width:0;color:rgb(14, 14, 117);background-color:rgb(14, 14, 117)">
+
+    <div class="myDiv">
+        <h3> Contact Information </h3>
+        <hr style="width:100%;margin-left:0;background-color:rgb(14, 14, 117)">
+        <p> Shah Faisal colony Block 02 </p>
+        <p> Karachi. </p>
+        <p> email: moid12345abdul@gmail.com </p>
+        <p> github: github.com/abdulmoid035 </p>
+    </div>
+
+    <h2> Objective </h2>
+    <hr style="width:50%;margin-left:0;">
+    <p> To be the best  </p>
+
+    <h2> Education </h2>
+    <hr style="width:50%;margin-left:0;">
+    <p> BS Software Engineering - Sir Syed University - 2020-2024 </p>
+    <p> Cumulative GPA: 3.0 </p>
+
+    <h2> Experience </h2>
+    <hr style="width:50%;margin-left:0;">
+    <ul>
+        <li> Worked on different Games which includes Particles system </li>
+        <li> Developed User Friendly Games.. Working on online projects </li>
+    </ul>
+
+    <h2> Skills </h2>
+    <hr style="width:50%;margin-left:0;">
+    <ul>
+        <li> Unity Developer</li>
+        <li> Object-Oriented Programming </li>
+        <li> C# </li>
+        <li> 2D/3D Development </li>
+        <li> Game Programming </li>
+    
+    </ul>
+
+    <h2> Reference </h2>
+    <hr style="width:50%;margin-left:0;">
+    <p> Available upon request. </p>
+
+</body>
+</html>
